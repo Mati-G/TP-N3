@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Lavar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "comprar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Andar en biic",
+    "estado": "realizado"
+  },
+  {
+    "titulo": "Futbol",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "listar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "futbol",
+    "estado": "realizado"
+  }
+]
